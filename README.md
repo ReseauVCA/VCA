@@ -19,3 +19,8 @@ pour ce faire:
 
 * Nous aurons besoin d'un compte Github pour VCA, qui hebergera & possedera ce code advitam eternam
 * nous aurons besoin de creer une organisation VCA-[nom-du-projet] pour inviter les codeurs a contribuer a ce code
+
+## contraintes des devellopeurs
+* Typescript obligatoire
+* zod (shema)
+* tout se passe sur github
