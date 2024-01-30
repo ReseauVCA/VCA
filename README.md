@@ -2,7 +2,6 @@
 
 # Nous voulons créer une application qui permet à un partenaire d'identifier un membre du reseau, calculer ses remises, & renseigner ses transaction dans notre base de données.
 
-## definitions
 Pour ce faire:
 * nous voudrons une application android membre qui doit:
   * logguer/identifier un membre
