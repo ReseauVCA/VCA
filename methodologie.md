@@ -12,5 +12,5 @@ c'est l'endroit ou les utilisateurs, les requeteurs peuvent interagir avec l'equ
 ## l'onglet Projects
 Celui ci permet de lancer des taches cooperatives et 'organiser le travail dans le temps, en relation etroite avec le repository (lien direct avec les issues par exemple)
 
-* concernant les autres onglets, nous y reviendront plus tard, & il ne seront utiles qu'au developpeurs.
+Concernant les autres onglets, nous y reviendront plus tard, & il seront surtout utiles aux developpeurs.
 
