@@ -1,6 +1,6 @@
 # VCA
 
-# Nous voulons créer une application qui permet à un partenaire d'identifier un membre du reseau, calculer ses remises, & renseigner ses transaction dans notre base de données.
+## Nous voulons créer une application qui permet à un partenaire d'identifier un membre du reseau, calculer ses remises, & renseigner ses transaction dans notre base de données.
 
 Pour ce faire:
 * nous voudrons une application android membre qui doit:
@@ -21,7 +21,7 @@ Pour ce faire:
 * Nous aurons besoin de creer une organisation VCA-[nom-du-projet] pour inviter les codeurs a contribuer a ce code
 * Nous devrons definir une license open-source pour ce projet avec les decideurs VCA
 * nous aurons besoins d'utilisateurs (ausi bien membres que partenaires) volontaires pour tester ces applications à outrance, remonter les bugs & demandes sur ce repository (ils devront créer un compte github)
-* 
+* ... (à compléter)
 
 ## contraintes des devellopeurs
 * Typescript obligatoire
