@@ -24,3 +24,5 @@ pour ce faire:
 * Typescript obligatoire
 * zod (shema)
 * tout se passe sur github
+* le repository (repertoire github) sera cloner sur le compte github VCA & appartiendra à VCA
+
