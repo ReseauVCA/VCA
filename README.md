@@ -1,6 +1,6 @@
 # VCA
 
-# Nous voulons créer une application qui permet & un partenaire d'identifier un membre du reseau, calculer ses remises, & renseigner ses transaction dans notre base de données.
+# Nous voulons créer une application qui permet à un partenaire d'identifier un membre du reseau, calculer ses remises, & renseigner ses transaction dans notre base de données.
 
 pour ce faire:
 * nous voudrons une application android membre qui doit:
