@@ -12,4 +12,4 @@
       * alertes association de nvo peripheriques
 
 * nous allons voir ausi comment connecter un lecteur de carte & utiliser des cartes magnetiques/rfid
- * https://github.com/BorisTherin/VCA/issues/1
+  * https://github.com/BorisTherin/VCA/issues/1
