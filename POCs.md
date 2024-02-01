@@ -10,3 +10,6 @@
   * historiques et/ou graph
   * association des peripheriques (steam-like)
       * alertes association de nvo peripheriques
+
+* nous allons voir ausi comment connecter un lecteur de carte & utiliser des cartes magnetiques/rfid
+ * https://github.com/BorisTherin/VCA/issues/1
