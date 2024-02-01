@@ -12,4 +12,7 @@
       * alertes association de nvo peripheriques
 
 * nous allons voir ausi comment connecter un lecteur de carte & utiliser des cartes magnetiques/rfid
-  * https://github.com/BorisTherin/VCA/issues/1
+  * recherche de projets open source existants: https://github.com/BorisTherin/VCA/issues/1
+ 
+* Nous aurons besoin besoin d'une base de données hebergée qlqs part & de son API
+  * MongoDB https://github.com/3forges/pesto-api
